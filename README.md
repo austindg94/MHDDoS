@@ -61,7 +61,7 @@
 * Layer4 DDoS Script
 #### Issues ? 
  * Telegram : @MH_ProDev_IR
- * Discord : MH_ProDev#5642
+ * Discord : MH_ProDev#0001
  * [GitHub][github]
 #### Like the project? Leave a ⭐ star on the repository!
 
@@ -84,21 +84,20 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 **Video's**
 
 * Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Comming soon..
+* YouTube : Coming soon..
 
 **toturial**
 
-* Aprat : Comming soon..
-* YouTube : Comming soon..
-
+* Aprat : https://aparat.com/v/XPn5Z
+* YouTube : https://youtu.be/lccRRTKw9CU
 ---
 
 **Clone and Install Script**
 
 ```console
-> git clone https://github.com/MHProDev/MHDDoS.git
-> cd MHDDoS
-> pip3 install -r requirements.txt
+git clone https://github.com/MHProDev/MHDDoS.git
+cd MHDDoS
+pip3 install -r requirements.txt
 ```
 
 ---
@@ -106,11 +105,14 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 **Launch Script**
 
 ```console
-> python3 start.py
-> python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
+python3 start.py
+python3 start.py bypass https://example.com 5 1000 socks5.txt 100 100
 ```
 
 [python3]: https://python.org 'Python3'
 [github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
 
-**💰 Donate (BTC):** ```bc1qpn7hz32x3pcapeajth420cahuz6nkrp5c57gz8```
+**💰 Donate:**
+* https://idpay.ir/mh-prodev
+* bitcoincash:qrwytj0aghszlqmfnku2h5ms4fad567ueg5g9dn2nu
+
